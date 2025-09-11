@@ -1,0 +1,4 @@
+• 	Add a slider to control animation speed
+• 	Use setInterval to auto-cycle moods
+• 	Store mood history in an array and display it
+• 	Animate the card with CSS classes triggered by JS    
